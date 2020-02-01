@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlockEngine", "BlockEngine\BlockEngine.vcxproj", "{691E7509-661D-4CFE-8ED6-28B7DE0E3617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Debug|x64.ActiveCfg = Debug|x64
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Debug|x64.Build.0 = Debug|x64
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Debug|x86.ActiveCfg = Debug|Win32
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Debug|x86.Build.0 = Debug|Win32
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Release|x64.ActiveCfg = Release|x64
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Release|x64.Build.0 = Release|x64
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Release|x86.ActiveCfg = Release|Win32
+		{691E7509-661D-4CFE-8ED6-28B7DE0E3617}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB952CE-D030-4967-9653-C3726415A4F5}
+	EndGlobalSection
+EndGlobal
